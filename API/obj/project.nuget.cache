@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ibO/aZi4ghcRjx85C0PKraegr9nAc06dnQXcgLTuGL3sW1GZdqyG0epLqL+eq0CNp7MNP9hY6JDulRo0S/QSw==",
+  "dgSpecHash": "d9W77Qj+l5qKwaSx2zxZ54paBNV6yRFD7YV3Tv9xGSxMdrVv/k7VH8cLmorQ2w6xd9uu/F9Wf6MMo+wvaVx77Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EL SafA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\EL SafA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -869,6 +869,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
         },
         "compile": {
@@ -2396,11 +2397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\API\\API.csproj",
+      "projectPath": "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\EL SafA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\API\\obj\\",
+      "outputPath": "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EL SafA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2417,8 +2418,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\EL SafA\\Desktop\\Mr.Food\\backEnd\\API\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\EL SafA\\Desktop\\SOUQ.com\\backEnd\\API\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
